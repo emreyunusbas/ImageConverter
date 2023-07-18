@@ -48,7 +48,7 @@ Bu repo aşağıdaki dosyaları içermektedir:
 
 Proje sahibi: [Yunus Emre BAŞ](https://github.com/emreyunusbas)
 
-Daha fazla bilgi için ilgili Patika.dev profilimi ziyaret edebilirsiniz.
+Daha fazla bilgi için ilgili Github profilimi ziyaret edebilirsiniz.
 
 ---
 
