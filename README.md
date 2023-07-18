@@ -44,5 +44,12 @@ Bu repo aşağıdaki dosyaları içermektedir:
 8. Dönüştürme işlemi tamamlandığında, program size bir tamamlanma mesajı gösterecektir.
 
 ---
+### Github Profilim
+
+Proje sahibi: [Yunus Emre BAŞ](https://github.com/emreyunusbas)
+
+Daha fazla bilgi için ilgili Patika.dev profilimi ziyaret edebilirsiniz.
+
+---
 
 Geliştirdiğimiz bu "Image Converter UI" programının detaylı açıklamalarını ve kaynak kodunu incelemek için ilgili dosyalara göz atabilirsiniz.
